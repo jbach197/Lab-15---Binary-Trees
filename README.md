@@ -1,8 +1,8 @@
 # Lab 15 - Binary Trees
 
 ## Links
-Pull Request - 
-Travis - 
+Pull Request - https://github.com/jbach197/Lab-15---Binary-Trees/pull/1
+Travis - https://travis-ci.com/jbach197/Lab-15---Binary-Trees.svg?branch=master
 Heroku is not revelant for this lab.
 
 ## Requirements
